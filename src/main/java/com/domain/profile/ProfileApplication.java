@@ -9,7 +9,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
         "com.domain.mapper",
         "com.domain.profile",
         "com.domain.authcommon",
-        "com.domain.cryptography"
+        "com.domain.cryptography",
+        "com.domain.exception"
 })
 public class ProfileApplication {
 
